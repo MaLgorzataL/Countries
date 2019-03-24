@@ -1,0 +1,16 @@
+body {
+    min-width: 350px;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(172, 102, 102);
+    margin-left: 5%;
+    width: 200px;
+    text-align: center;
+
+}
