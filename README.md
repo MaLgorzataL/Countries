@@ -1,0 +1,1 @@
+Lista krajów zawierających podaną frazę
